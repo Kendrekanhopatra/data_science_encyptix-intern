@@ -6,12 +6,6 @@ Welcome to the repository for my data science internship at Encryptix! This repo
 Task Structure
 The repository is organized into individual tasks, each containing relevant files including datasets, Jupyter notebooks, and any additional resources. Below is the structure of the tasks:
 
-Task 1:
-
-Titanic Survival Prediction Model
-Task 2:
-
-Sales Prediction
-Task 3:
-
-Iris Flower Classification
+Task 1:Titanic Survival Prediction Model
+Task 2:Sales Prediction
+Task 3:Iris Flower Classification
